@@ -1,0 +1,58 @@
+{
+  "company": "The Coca-Cola Company",
+  "ticker": "NYSE: KO",
+  "industry": "Beverage / Consumer Staples Manufacturing",
+  "currency": "USD",
+  "units": "USD millions",
+  "years": {
+    "2025": {
+      "Revenue": 47941,
+      "COGS": 18397,
+      "Gross_Profit": 29544,
+      "Operating_Profit": 13762,
+      "Net_Income": 13107,
+      "Current_Assets": 31044,
+      "Inventory": 4425,
+      "Current_Liabilities": 21281,
+      "Total_Assets": 104816,
+      "Total_Debt": 45492,
+      "Shareholders_Equity": 32169,
+      "Accounts_Receivable": 3038,
+      "Accounts_Payable": 14813,
+      "Interest_Expense": 1654
+    },
+    "2024": {
+      "Revenue": 47061,
+      "COGS": 18324,
+      "Gross_Profit": 28737,
+      "Operating_Profit": 9992,
+      "Net_Income": 10631,
+      "Current_Assets": 25997,
+      "Inventory": 4728,
+      "Current_Liabilities": 25249,
+      "Total_Assets": 100549,
+      "Total_Debt": 44522,
+      "Shareholders_Equity": 24856,
+      "Accounts_Receivable": 3569,
+      "Accounts_Payable": 21712,
+      "Interest_Expense": 1656
+    }
+  },
+  "supporting_2023": {
+    "Total_Assets": 97703,
+    "Shareholders_Equity": 25941,
+    "Inventory": 4424,
+    "Accounts_Receivable": 3410
+  },
+  "notes": {
+    "Net_Income": "Net Income Attributable to Shareowners of The Coca-Cola Company",
+    "Total_Debt": "Calculated: Loans and notes payable + Current maturities of LT debt + Long-term debt",
+    "Accounts_Payable": "Accounts payable and accrued expenses (pure trade AP not separately presented)",
+    "Gross_Profit": "Explicitly reported in Consolidated Statements of Income",
+    "Shareholders_Equity": "Equity Attributable to Shareowners of The Coca-Cola Company"
+  },
+  "sources": {
+    "2025_10K": "https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0001628280-26-010047/ko-20251231.htm",
+    "2024_10K": "https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0000021344-25-000011/ko-20241231.htm"
+  }
+}
